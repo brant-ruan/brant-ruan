@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**brant-ruan/brant-ruan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - Official WeChat: 榆梓同袍
 - Blog: wohin.me
 - Email: rambo@wohin.me
