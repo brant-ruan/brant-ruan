@@ -3,7 +3,5 @@
 ### Hi there 👋
 
 - Blog: [wohin.me](https://wohin.me)
-- Official WeChat: 榆梓同袍
+- 公众号: 榆梓同袍
 - Email: ecmFtYm9Ad29oaW4ubWU=
-
-Per Aspera Ad Astra
