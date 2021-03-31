@@ -4,4 +4,4 @@
 
 - Blog: [wohin.me](https://wohin.me)
 - 公众号: 榆梓同袍
-- Email: ecmFtYm9Ad29oaW4ubWU=
+- Email: rambo@wohin.me
